@@ -20,7 +20,7 @@
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xeraoo&show_icons=true&theme=great-gatsby)
+![Xeraoo GitHub stats](https://github-readme-stats.vercel.app/api?username=Xeraoo&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Xeraoot&theme=gruvbox&border_radius=4.5) -->
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Xeraoo&theme=gruvbox&border_radius=4.5) -->
 
