@@ -20,7 +20,7 @@ Feel free to explore my repositories, and let’s connect if you share an intere
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="GEE" width="30px" style="padding-right:10px;" src="https://earthengine.google.com/">
+<img align="left" alt="GEE" width="30px" style="padding-right:10px;" src="![546772-middle](https://github.com/user-attachments/assets/df71ee4d-b96f-476d-b987-d60f755bf1f2)">
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 <img align="left" alt="RStudio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
