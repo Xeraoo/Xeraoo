@@ -23,7 +23,7 @@ Feel free to explore my repositories, and let’s connect if you share an intere
 
 <img align="left" alt="GEE" width="30px" style="padding-right:10px;" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/googleearth-engine_104576.png">
 <img align="left" alt="QGIS" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/306623/qgis.svg">
-<img align="left" alt="ArcGIS Pro" width="30px" style="padding-right:10px;" src="https://www.vhv.rs/dpng/d/295-2958586_transparent-arcgis-logo-png-arcgis-pro-logo-png.png">
+<img align="left" alt="ArcGIS Pro" width="30px" style="padding-right:10px;" src="https://tl.vhv.rs/dpng/s/295-2958586_transparent-arcgis-logo-png-arcgis-pro-logo-png.png">
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 <img align="left" alt="RStudio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
