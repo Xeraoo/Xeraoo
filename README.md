@@ -9,6 +9,7 @@ Welcome to my GitHub profile! I’m a second-cycle student at the AGH University
 ### 🛠 Skills and Expertise:
 - **Remote Sensing & GIS**: Expertise in tools like **Google Earth Engine, QGIS, ArcGIS**, and **ESA SNAP** for satellite data analysis.
 - **Python**: Data analysis, geospatial processing, and automation.
+- **R**: Proficient in data visualization, statistical analysis, and report generation using RMarkdown.
 - **SQL**: Designing and managing relational databases, spatial databases, and complex queries.
 
 Beyond my professional expertise, I have a keen interest in **ludology**, the study of video games, exploring their structure and the unique insights they provide into storytelling and interactive design. I also enjoy delving into **art** and creativity.
