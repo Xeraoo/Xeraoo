@@ -4,7 +4,7 @@
 
 > „No matter how hard or impossible it is, never lose sight of your goal.” – Monkey D. Luffy
 
-Welcome to my GitHub profile! I’m a second-cycle student at the AGH University of Science and Technology in Kraków, focusing on **Remote Sensing and Geographic Information Systems (GIS)**. My academic journey has equipped me with a solid foundation in **Python programming** and geospatial analysis. I’m passionate about leveraging **satellite imagery, spatial data, and GIS tools** to solve complex environmental and urban challenges.
+Welcome to my GitHub profile! Master of Science and Engineering in Geospatial Informatics | Remote Sensing & GIS Specialist | Python DeveloperI hold a Master’s degree in Geospatial Informatics from AGH University of Science and Technology in Kraków, specializing in Remote Sensing and Geographic Information Systems (GIS). Professionally, I focus on leveraging Python programming, satellite imagery, and GIS tools to analyze spatial data and address complex environmental and urban challenges. Passionate about creating innovative solutions that bridge geospatial analysis and software development.
 
 ### 🛠 Skills and Expertise:
 - **Remote Sensing & GIS**: Expertise in tools like **Google Earth Engine, QGIS, ArcGIS**, and **ESA SNAP** for satellite data analysis.
