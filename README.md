@@ -1,6 +1,6 @@
 # 🧑‍💻 Tymoteusz Maj (Xeraoo)
 
-**`Student | AGH University of Science and Technology | Specializing in Remote Sensing & GIS`**
+**`Master of Engineering in Geospatial Informatics | Specialist in Remote Sensing and GIS | AGH University of Science and Technology`**
 
 > „No matter how hard or impossible it is, never lose sight of your goal.” – Monkey D. Luffy
 
